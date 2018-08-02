@@ -1,6 +1,6 @@
 ## What is this?
 
-Just you wait folks!
+Project following Wes Bos course on nodeJS
 
 ## Sample Data
 
