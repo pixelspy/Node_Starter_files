@@ -5,7 +5,8 @@ include mixins/_storeForm
 
 block content
   .inner
+    //- TO TEST THE DUMPED DATA pre= h.dump(store)
     h2= title     
     //- h2 #{title}
-    +storeForm()
+    +storeForm(store)
     
